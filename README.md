@@ -1,5 +1,6 @@
 # SemesterProgramme-SciML-2025
-Material for the semester programme on SciML at CWI in fall 2025
+Material for the semester programme on SciML at CWI in fall 2025.
+For the CWI website with general information, [click here](https://www.cwi.nl/en/events/research-semester-programmes/bridging-numerical-analysis-and-scientific-machine-learning/).
 
 ## Autumn school, 27-31 October 2025
 
