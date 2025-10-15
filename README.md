@@ -17,6 +17,7 @@ Req.: Have a Google account for Google Colab sessions
 
 ### Day 3 - Ben Moseley
 Req.: Google Colab
+
 [Ben Moseley Git repo](https://github.com/benmoseley/scalable-pinns-workshop)
  
 ### Day 4 - Gabriele Steidl
