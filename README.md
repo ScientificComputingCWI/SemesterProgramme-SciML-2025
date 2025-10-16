@@ -8,17 +8,17 @@ Course material for the autumn school in scientific machine learning, October 20
 
   
 ### Day 1 - Andrew Stuart, Ricardo Baptista
-Req.: Python+PyTorch installed OR Google account for Google Colab to run Python+PyTorch notebooks
+**Requirements**: Python+PyTorch installed **OR** Google account for Google Colab
  
 ### Day 2 - Chris Budd
-Req.: Have a Google account for Google Colab sessions
+**Requirements**: Google account for Google Colab
 
-[Chris Budd lectures, case study, code, papers](https://github.com/ChrisBudd123/CWI/tree/main)
+**Material**: [Chris Budd lectures, case study, code, papers](https://github.com/ChrisBudd123/CWI/tree/main)
 
 ### Day 3 - Ben Moseley
-Req.: Google Colab
+**Requirements**: Google account for Google Colab
 
-[Ben Moseley Git repo](https://github.com/benmoseley/scalable-pinns-workshop)
+**Material**: [Ben Moseley Git repo](https://github.com/benmoseley/scalable-pinns-workshop)
  
 ### Day 4 - Gabriele Steidl
 
