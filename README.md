@@ -17,7 +17,7 @@ Course material for the autumn school in scientific machine learning, October 20
 - [Lecture 4](Stuart/Lecture%204.pdf)
 - [Lecture 5](Stuart/Lecture%205.pdf)
 - [Lecture 6](Stuart/Lecture%206.pdf)
-- [Tutorial](Stuart/IPDA_Tutorial.pdf)
+- [Tutorial](Stuart/IPDA_Tutorial.pdf) and [Python notebooks](https://github.com/baptistar/MLforIPDA)
 
 
 ### Day 2 - Chris Budd
