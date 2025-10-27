@@ -9,6 +9,7 @@ Course material for the autumn school in scientific machine learning, October 20
   
 ### Day 1 - Andrew Stuart, Ricardo Baptista
 **Requirements**: Python+PyTorch installed **OR** Google account for Google Colab
+
 **Material**:
 - [Overview](Stuart/Overview.pdf)
 - [Lecture 1](Stuart/Lecture%201.pdf)
