@@ -32,10 +32,7 @@ Course material for the autumn school in scientific machine learning, October 20
 **Material**: [Ben Moseley Git repo](https://github.com/benmoseley/scalable-pinns-workshop)
  
 ### Day 4 - Gabriele Steidl, Jannis Chemseddine
-**Material**:
-- [Lecture 1](Steidl/Lecture1-HS_AMSTERDAM_OT.pdf)
-- [Lecture 2](Steidl/Lecture2-HS_AMSTERDAM_FM.pdf)
-- [Lecture 3](Steidl/Lecture3-HS_AMSTERDAM_Bayesian.pdf)
+**Material**: [Git repo](https://github.com/JChemseddine/fm_tutorial)
 
 ### Day 5 - Andrea Walther
 
