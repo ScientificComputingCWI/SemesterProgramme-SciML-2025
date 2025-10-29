@@ -35,6 +35,8 @@ Course material for the autumn school in scientific machine learning, October 20
 **Material**: [Git repo](https://github.com/JChemseddine/fm_tutorial)
 
 ### Day 5 - Andrea Walther, Sri Harshitha Tadinada
+
+**Requirements**: Google account for Google Colab
 **Material**: [Git repo](https://github.com/shtadinada/AD-Exercises)
 
 ## Workshop, 1-3 December 2025
