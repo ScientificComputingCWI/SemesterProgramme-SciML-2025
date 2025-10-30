@@ -6,6 +6,7 @@ For the CWI website with general information, [click here](https://www.cwi.nl/en
 
 Course material for the autumn school in scientific machine learning, October 2025, CWI Amsterdam.
 
+:point_right: **Feedback form**: Please fill in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdkhnzzuBLIunXVzth7lVrvkZGOvf9nb3un4sefc2tPr18jrQ/viewform) and help us with future events!
   
 ### Day 1 - Andrew Stuart, Ricardo Baptista
 **Requirements**: Python+PyTorch installed **OR** Google account for Google Colab
