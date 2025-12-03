@@ -2,11 +2,15 @@
 Material for the semester programme on SciML at CWI in fall 2025.
 For the CWI website with general information, [click here](https://www.cwi.nl/en/events/research-semester-programmes/bridging-numerical-analysis-and-scientific-machine-learning/).
 
+## Workshop, 1-3 December 2025
+
+Presentations will be made available shortly.
+
+:point_right: **Feedback form**: Please fill in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdI-Pf3A7bkhm69PQ8cZLWYjRk-Hgj-Ru7tnTKur7i8Rhd8sw/viewform) and help us with future events!
+
 ## Autumn school, 27-31 October 2025
 
 Course material for the autumn school in scientific machine learning, October 2025, CWI Amsterdam.
-
-:point_right: **Feedback form**: Please fill in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdkhnzzuBLIunXVzth7lVrvkZGOvf9nb3un4sefc2tPr18jrQ/viewform) and help us with future events!
 
 ![Group picture Autumn School](CWI_RSP_October_2025_Group_Photo_MK3_5145_Small.jpg)
 
