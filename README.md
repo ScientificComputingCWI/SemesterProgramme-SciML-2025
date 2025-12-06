@@ -6,8 +6,6 @@ For the CWI website with general information, [click here](https://www.cwi.nl/en
 
 Presentations will be made available shortly.
 
-:point_right: **Feedback form**: Please fill in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdI-Pf3A7bkhm69PQ8cZLWYjRk-Hgj-Ru7tnTKur7i8Rhd8sw/viewform) and help us with future events!
-
 ## Autumn school, 27-31 October 2025
 
 Course material for the autumn school in scientific machine learning, October 2025, CWI Amsterdam.
