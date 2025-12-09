@@ -4,7 +4,10 @@ For the CWI website with general information, [click here](https://www.cwi.nl/en
 
 ## Workshop, 1-3 December 2025
 
-Presentations will be made available shortly.
+Presentations will be made available shortly.  
+
+![Group picture Workshop](Workshop/Pictures%20RSP%202025/Group%20picture.jpg)
+
 
 ## Autumn school, 27-31 October 2025
 
