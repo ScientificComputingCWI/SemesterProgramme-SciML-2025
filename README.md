@@ -4,7 +4,19 @@ For the CWI website with general information, [click here](https://www.cwi.nl/en
 
 ## Workshop, 1-3 December 2025
 
-Presentations will be made available shortly.  
+**Presentations:**
+- [Celledoni](Workshop/CWI2025IndApplNAML.pdf)
+- [Loukrezis](Workshop/20251201_Loukrezis.pdf)
+- [Isufi](Workshop/Relational_Learning_with_Covariance_Information_Isufi.pdf)
+- [Boulle](Workshop/talk_boulle.pdf)
+- [Verlaan](Workshop/20251202_verlaan_sciml_cwi_ai_surrogate_stormsurge.pdf)
+- [Faney](Workshop/CWI_Faney.pdf)
+- [Straub](Workshop/Straub_CWI.pdf)
+- [Pereyra](Workshop/MPEREYRA_CWI_Dec25.pdf)
+- [Salanevich](Workshop/PSalanevich_presentation.pdf)
+- [Peherstorfer](Workshop/pehersto_cwi2025.pdf)
+
+**Group picture**  
 
 ![Group picture Workshop](Workshop/Pictures%20RSP%202025/Group%20picture.jpg)
 
